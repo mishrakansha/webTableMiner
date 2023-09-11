@@ -1,5 +1,5 @@
 # WebTable Miner
-
+![logo](https://github.com/mishrakansha/gupt/blob/main/logo/webTableMiner.png)
 WebTable Miner is a Python script that allows you to scrape tables from web pages and save them in CSV or Excel formats.
 
 ## Getting Started
